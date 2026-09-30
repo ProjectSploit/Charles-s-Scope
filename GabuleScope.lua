@@ -33,7 +33,7 @@
 -- Leave as "" to keep the plain dark background.
 -- If your executor supports getcustomasset(), you can also do:
 --   BACKGROUND_ASSET = getcustomasset("Screenshot_2026-09-30-23-28-10-673_com.miui.gallery-edit.jpg")
-local BACKGROUND_ASSET = ""
+local BACKGROUND_ASSET = "Screenshot_2026-09-30-23-28-10-673_com.miui.gallery-edit.jpg"
 
 -- ============================================================
 -- RE-EXECUTION GUARD
